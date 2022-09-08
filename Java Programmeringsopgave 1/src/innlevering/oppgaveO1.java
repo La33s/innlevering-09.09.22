@@ -32,7 +32,7 @@ public class oppgaveO1 {
 		float utregnet = bruttoinntekt - (bruttoinntekt * (float)sats);
 		
 		System.out.println("Du er i skattesatsen " + sats + " og du får derfor ut " +  utregnet + " etter skatt");
-		
+		 
 
 	}
 
