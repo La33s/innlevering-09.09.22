@@ -12,7 +12,7 @@ public class OppgaveO2 {
 			int poengsum = parseInt(poengsumTxt);
 			char karakter = '#'; // bruker # som feil symbol
 			
-			if (poengsum <= 39 && poengsum >= 0) {
+			if (poengsum <= 39 && poengsum >= 0) { 
 			karakter = 'F';
 			}
 			else if (poengsum >= 40 && poengsum <= 49) {

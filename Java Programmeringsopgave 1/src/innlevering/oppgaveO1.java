@@ -10,7 +10,7 @@ public class oppgaveO1 {
 		int skattetrinn = 0;
 		double sats = 0;
 			if (bruttoinntekt <= 164100) {
-			skattetrinn = 0;
+			skattetrinn = 0; 
 		}
 			if (bruttoinntekt <= 230950) {
 			skattetrinn = 0;

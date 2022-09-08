@@ -13,7 +13,7 @@ public class oppgaveO3 {
 		int i = 1;
 		if (fakultet >= 0 && fakultet <= 31) {//tall over 31 blir for store og gir feil svar
 		while (i < fakultet) {
-			sum = sum + (sum * i);
+			sum = sum + (sum * i);  
 			i++;
 		}
 		System.out.println("!" + fakultet + "=" + sum);
