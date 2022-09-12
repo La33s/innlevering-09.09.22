@@ -11,7 +11,7 @@ public class oppgaveO1 {
 		double sats = 0;
 			if (bruttoinntekt <= 164100) {
 			skattetrinn = 0; 
-		}
+		} 
 			if (bruttoinntekt <= 230950) {
 			skattetrinn = 0;
 			sats = 0.093;

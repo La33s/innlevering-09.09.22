@@ -15,7 +15,7 @@ public class oppgaveO3 {
 		while (i < fakultet) {
 			sum = sum + (sum * i);  
 			i++;
-		}
+		} 
 		System.out.println("!" + fakultet + "=" + sum);
 		}
 		else {

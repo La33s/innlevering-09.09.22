@@ -14,7 +14,7 @@ public class OppgaveO2 {
 			
 			if (poengsum <= 39 && poengsum >= 0) { 
 			karakter = 'F';
-			}
+			} 
 			else if (poengsum >= 40 && poengsum <= 49) {
 			karakter = 'E';
 			}
